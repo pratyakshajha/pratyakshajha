@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hello@pratyakshajha.me)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://pratyakshajha.me/)](https://pratyakshajha.me/)
 [![Github](https://img.shields.io/github/stars/pratyakshajha?style=flat-square&logo=github)](https://github.com/pratyakshajha)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-white?style=flat-square&logo=LeetCode&logoColor=yellow)]([https://github.com/pratyakshajha](https://leetcode.com/u/p66/))
+[![LeetCode](https://img.shields.io/badge/-LeetCode-white?style=flat-square&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/p66/)
 
 - ✨ Creating bugs since 2017
 - 📚 I'm currently practicing Java
